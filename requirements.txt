@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
-matplotlib.pyplot
-plotly.express
+matplotlib
+plotly
 seaborn
-statsmodels.api
-sklearn.metrics
+statsmodels
+scikit-learn
 joblib
