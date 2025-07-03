@@ -4,9 +4,9 @@ numpy
 matplotlib
 plotly
 seaborn
-statsmodels==0.13.5
+statsmodels==0.14
 scikit-learn
 pillow
 joblib
 xgboost
-scipy==1.10.1
+scipy==1.10
