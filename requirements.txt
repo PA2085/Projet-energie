@@ -1,5 +1,9 @@
-matplotlib
-plotly
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+plotly.express
 seaborn
-statsmodels
-scipy==1.10.1
+statsmodels.api
+sklearn.metrics
+joblib
