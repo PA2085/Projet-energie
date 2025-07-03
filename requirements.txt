@@ -2,3 +2,4 @@ matplotlib
 plotly
 seaborn
 statsmodels
+scipy
